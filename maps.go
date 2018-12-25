@@ -12,5 +12,6 @@ func main() {
 		"docker":     6,
 		"Kubernetes": 9,
 	}
+
 	fmt.Printf("Arun is %v\nVenkat is %v", arunmap, venkatmap)
 }
